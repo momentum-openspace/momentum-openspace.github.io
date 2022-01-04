@@ -11,7 +11,7 @@ permalink: /teaching/ECE720/2022Winter
 ---
 [Lei Ma](https://malei.xyz/), PhD, Associate Professor, Canada CIFAR AI Chair
 
-ma.lei@ualberta.ca
+Email: ma.lei@ualberta.ca
 
 Zoom (see eClass for information)
 
@@ -20,11 +20,11 @@ Office Hours: Wednesday 17:00-18:00
 
 ## Teaching Assistant
 ---
-TA name: Zhijie Wang
-
-Office number: Zoom (see eClass for information)
+Zhijie Wang
 
 Email: zhijie.wang@ualberta.ca
+
+Office: Zoom (see eClass for information)
 
 
 ## Course Description
