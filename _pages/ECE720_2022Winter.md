@@ -84,37 +84,37 @@ By the end of this course, students should be able to:
 
 ---
 
-| Schedule  | Topics                                                | Slides                    | Recordings                    |
-| :-------: | :---------------------------------------------------: | :------------------------:| :----------------------------:|
-| Week 1    | Introduction to Machine Learning System Engineering   | [slides]()                | [recordings]()                |
-| Week 2    | Introduction to Tranditional Software Engineering     | [slides]()                | [recordings]()                |
-| Week 3    | Automated Software Testing I                          | [slides]()                | [recordings]()                |
-| Week 4    | Automated Software Testing II                         | [slides]()                | [recordings]()                |
-| Week 5    | MLSE Quality Assurance and ML Testing                 | [slides]()                | [recordings]()                |
-| Week 6    | ML Software Testing and Analysis (Continued)          | [slides]()                | [recordings]()                |
-| Week 7    | ML Software Debugging, Interpretation, Repairing      | [slides]()                | [recordings]()                |
-| Week 8    | Reading Week (No lecture)                             |                           |                               |
-| Week 9    | Invited Talk                                          | [slides]()                | [recordings]()                |
-| Week 10   | Invited Talk                                          | [slides]()                | [recordings]()                |
-| Week 11   | Invited Talk                                          | [slides]()                | [recordings]()                |
-| Week 12   | Project Presentation                                  |                           |                               |
-| Week 13   | Project Presentation                                  |                           |                               |
-| Week 14   | Project Presentation                                  |                           |                               |
+|    Schedule     |    Topics                                                   | Slides                    | Recordings                    |
+|    :-------:    |    :---------------------------------------------------:    | :------------------------:| :----------------------------:|
+|    Week 1       |    Introduction to Machine Learning System Engineering      | [slides]()                | [recordings]()                |
+|    Week 2       |    Introduction to Tranditional Software Engineering        | [slides]()                | [recordings]()                |
+|    Week 3       |    Automated Software Testing I                             | [slides]()                | [recordings]()                |
+|    Week 4       |    Automated Software Testing II                            | [slides]()                | [recordings]()                |
+|    Week 5       |    MLSE Quality Assurance and ML Testing                    | [slides]()                | [recordings]()                |
+|    Week 6       |    ML Software Testing and Analysis (Continued)             | [slides]()                | [recordings]()                |
+|    Week 7       |    ML Software Debugging, Interpretation, Repairing         | [slides]()                | [recordings]()                |
+|    Week 8       |    Reading Week (No lecture)                                |                           |                               |
+|    Week 9       |    Invited Talk                                             | [slides]()                | [recordings]()                |
+|    Week 10      |    Invited Talk                                             | [slides]()                | [recordings]()                |
+|    Week 11      |    Invited Talk                                             | [slides]()                | [recordings]()                |
+|    Week 12      |    Project Presentation                                     |                           |                               |
+|    Week 13      |    Project Presentation                                     |                           |                               |
+|    Week 14      |    Project Presentation                                     |                           |                               |
 {: rules="groups"}
 
 ## Marking Scheme:
 ---
 
-| Activity                                                        | (A)Synchronous  | Due / Scheduled    | Weight |
-| :-------------------------------------------------------------: | :-------------: | :----------------: | :----: |
-| Assignment Hands-on Project 1                                   | Asynchronous    | See schedule below |  15%   |                             
-| Assignment Hands-on Project 2                                   | Asynchronous    | See schedule below |  15%   |
-| Assignment Hands-on Project 3                                   | Asynchronous    | See schedule below |  15%   |                           
-| Course Project - part 1: project proposal & literature survey   | Asynchronous    | See schedule below |  10%   |
-| Course Project - part 2: design and implementation              | Asynchronous    | See schedule below |  15%   |
-| Course Project - part 3: presentation slides                    | Asynchronous    | See schedule below |  15%   |
-| Course Project - part 4: Final report                           | Asynchronous    | See schedule below |  15%   |       
-{: rules="groups"}
+|    Activity                                                           |    (A)Synchronous     |    Due / Scheduled       |    Weight    |
+|    :-------------------------------------------------------------:    |    :-------------:    |    :----------------:    |    :----:    |
+|    Assignment Hands-on Project 1                                      |    Asynchronous       |    See schedule below    |     15%      |                                               
+|    Assignment Hands-on Project 2                                      |    Asynchronous       |    See schedule below    |     15%      |
+|    Assignment Hands-on Project 3                                      |    Asynchronous       |    See schedule below    |     15%      |                                          
+|    Course Project - part 1: project proposal & literature survey      |    Asynchronous       |    See schedule below    |     10%      |
+|    Course Project - part 2: design and implementation                 |    Asynchronous       |    See schedule below    |     15%      |
+|    Course Project - part 3: presentation slides                       |    Asynchronous       |    See schedule below    |     15%      |
+|    Course Project - part 4: Final report                              |    Asynchronous       |    See schedule below    |     15%      |       
+{: rules="groups"}   
 
 The Faculty recommended grade point average for a 700 level course is 0.0. Instructors have the leeway to
 deviate from this average and can assign grades based on their own scheme. All grades are approved by
