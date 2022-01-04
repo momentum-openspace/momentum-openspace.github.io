@@ -25,20 +25,20 @@ th {
   margin-bottom: $line-height-computed;
   border-collapse: collapse;
   border-spacing: 0;
-  border:2px solid #000000;
+  border:20px solid #000000;
   // Cells
   > thead,
   > tbody,
   > tfoot {
     > tr {
       > th {
-        border:2px solid $table-border-color;
+        border:20px solid $table-border-color;
     }
       > td {
         padding: $table-cell-padding;
         line-height: $line-height-base;
         vertical-align: top;
-        border-top: 1px solid $table-border-color;
+        border-top: 10px solid $table-border-color;
       }
     }
   }
