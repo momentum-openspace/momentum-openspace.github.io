@@ -5,7 +5,7 @@ collection: teaching
 permalink: /teaching/ECE720/2022Winter
 ---
 
-# Advanced Topics in Software Engineering and Intelligent Systems: Machine Learning System Engineering
+# ECE 720 Advanced Topics in Software Engineering and Intelligent Systems: Machine Learning System Engineering (Winter 2022)
 
 ## Instructor
 ---
