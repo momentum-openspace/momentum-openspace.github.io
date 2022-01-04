@@ -1,6 +1,7 @@
 # ECE 720: Advanced Topics in Software Engineering and Intelligent Systems: Machine Learning System Engineering(Winter 2022)
 
 ## Instructor
+---
 [Lei Ma](https://malei.xyz/), PhD, Associate Professor, Canada CIFAR AI Chair
 
 ma.lei@ualberta.ca
@@ -13,6 +14,7 @@ Office Hours: Wednesday 17:00-18:00
 [Lei Ma](https://zoom.com)
 
 ## Teaching Assistant
+---
 TA name: Zhijie Wang
 
 Office number: Zoom (see eClass for information)
@@ -25,12 +27,15 @@ Email: zhijie.wang@ualberta.ca
 *3 (fi 6) (either term, 3-0-0) Introductory and advanced topics in Machine Learning System Engineering (MLSE). Traditional software engineering, software quality assurance, and state-of-the-art software testing, analysis, etc. General-purpose machine learning and deep learning. Testing and analysis of deep learning. State-of-the-art quality assurance and engineering for machine learning-based software systems, and the future trends.
 
 ## Prerequisites
+---
 This course is mostly self-contained, basic previous knowledge of traditional software engineering, testing, analysis, machine learning and deep learning are helpful, but not mandatory.
 
 ## Course synchronous and asynchronous content delivery schedule
+---
 Lectures are delivered synchronously via zoom meeting. Lecture and hands-on materials are posted on eClass for asynchronous learning.
 
 ## Course Objectives & General Content
+---
 Descriptive statement of the overall course objectives and general content to be covered in the course. This
 can include general information about course delivery, the importance of the course, how it fits into the
 overall program, etc. The data-driven AI systems(e.g., machine/deep learning) continue to achieve
@@ -57,6 +62,7 @@ potential value and impacts.
 
 
 ## Learning Outcomes:
+---
 By the end of this course, students should be able to:
 
 1. Understand the basics of machine learning system engineering
@@ -93,6 +99,7 @@ deadline for reappraisal and grade appeals. Final examinations will be kept for 
 university guidelines and the Government of Alberta's Freedom of Information and Protection of Privacy Act.
 
 ## Text and References (Recommended):
+---
 - Hulten, Geoff. Building Intelligent Systems: A Guide to Machine Learning Engineering. Apress. 2018
 - Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable",
 2019.
@@ -116,6 +123,7 @@ deep learning systems." In proceedings of the 26th Symposium on Operating System
 2017.
 
 ## Website:
+---
 eClass
 
 Did you know that the University of Alberta has various low-to-no-cost services to help students succeed? Visit
