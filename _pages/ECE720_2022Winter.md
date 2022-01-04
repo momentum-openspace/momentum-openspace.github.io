@@ -83,6 +83,7 @@ By the end of this course, students should be able to:
 **The following table outlines the schedule for the course. We will update it as the term progresses.**
 
 ---
+
 | Schedule  | Topics                                                | Slides                    | Recordings                    |
 | --------- | ----------------------------------------------------- | --------------------------| ------------------------------|
 | Week 1    | Introduction to Machine Learning System Engineering   | [slides]()                | [recordings]()                |
@@ -103,6 +104,7 @@ By the end of this course, students should be able to:
 
 ## Marking Scheme:
 ---
+
 | Activity                                                        | (A)Synchronous  | Due / Scheduled    | Weight |
 | --------------------------------------------------------------- | --------------- | ------------------ | ------ |
 | Assignment Hands-on Project 1                                   | Asynchronous    | See schedule below |  15%   |                             
