@@ -23,22 +23,17 @@ th {
   width: 100%;
   max-width: 100%;
   margin-bottom: $line-height-computed;
-  border-collapse: collapse;
-  border-spacing: 0;
-  border:20px solid #000000;
   // Cells
   > thead,
   > tbody,
   > tfoot {
     > tr {
-      > th {
-        border:20px solid $table-border-color;
-    }
+      > th,
       > td {
         padding: $table-cell-padding;
         line-height: $line-height-base;
         vertical-align: top;
-        border-top: 10px solid $table-border-color;
+        border-top: 1px solid $table-border-color;
       }
     }
   }
