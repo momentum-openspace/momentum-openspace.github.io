@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ECE 720: Advanced Topics in Security, Privacy and Machine Learning (Fall 2021)
 
 You can use the [editor on GitHub](https://github.com/momentum-openspace/momentum-openspace.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
