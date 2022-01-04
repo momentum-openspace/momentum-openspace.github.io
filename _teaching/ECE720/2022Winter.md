@@ -18,8 +18,6 @@ Zoom (see eClass for information)
 Office Hours: Wednesday 17:00-18:00
 
 
-[Lei Ma](https://zoom.com)
-
 ## Teaching Assistant
 ---
 TA name: Zhijie Wang
@@ -79,6 +77,30 @@ By the end of this course, students should be able to:
 5. Get familiar with debugging and repairing of machine learning enabled software
 6. Know the current research trend and some industrial practices of machine learning system engineering
 
+
+## Course Schedule
+
+**The following table outlines the schedule for the course. We will update it as the term progresses.**
+
+---
+| Schedule  | Topics                                                | Slides                    | Recordings                    |
+| --------- | ----------------------------------------------------- | --------------------------| ------------------------------|
+| Week 1    | Introduction to Machine Learning System Engineering   | [slides]()                | [recordings]()                |
+| Week 2    | Introduction to Tranditional Software Engineering     | [slides]()                | [recordings]()                |
+| Week 3    | Automated Software Testing I                          | [slides]()                | [recordings]()                |
+| Week 4    | Automated Software Testing II                         | [slides]()                | [recordings]()                |
+| Week 5    | MLSE Quality Assurance and ML Testing                 | [slides]()                | [recordings]()                |
+| Week 6    | ML Software Testing and Analysis (Continued)          | [slides]()                | [recordings]()                |
+| Week 7    | ML Software Debugging, Interpretation, Repairing      | [slides]()                | [recordings]()                |
+| Week 8    | Reading Week (No lecture)                             |                           |                               |
+| Week 9    | Invited Talk                                          | [slides]()                | [recordings]()                |
+| Week 10   | Invited Talk                                          | [slides]()                | [recordings]()                |
+| Week 11   | Invited Talk                                          | [slides]()                | [recordings]()                |
+| Week 12   | Project Presentation                                  |                           |                               |
+| Week 13   | Project Presentation                                  |                           |                               |
+| Week 14   | Project Presentation                                  |                           |                               |
+
+
 ## Marking Scheme:
 ---
 | Activity                                                        | (A)Synchronous  | Due / Scheduled    | Weight |
@@ -95,7 +117,7 @@ The Faculty recommended grade point average for a 700 level course is 0.0. Instr
 deviate from this average and can assign grades based on their own scheme. All grades are approved by
 the department chair (or delegate). The office of the Dean has final oversight on all grades.
 
-### Team Work
+### Term Work
 All term work solutions will be posted no later than the last day of classes. All term work will be returned to
 students by the final day of classes, with the exception of major term work due in the last week of classes.
 The latter will be returned by the day of the final examination or the last day of the examination period if
@@ -128,33 +150,3 @@ Practice (ICSE-SEIP), pp. 291-300. IEEE, 2019.
 - Pei, Kexin, Yinzhi Cao, Junfeng Yang, and Suman Jana. "DeepXplore: Automated whitebox testing of
 deep learning systems." In proceedings of the 26th Symposium on Operating Systems Principles, pp. 1-18.
 2017.
-
-## Website:
----
-eClass
-
-Did you know that the University of Alberta has various low-to-no-cost services to help students succeed? Visit
-http://www.deanofstudents.ualberta.ca/ for information about the academic, wellness, and various other support
-services available to U of A students. It's never too early or too late to seek help!
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
-## Course Schedule
----
-| Schedule  | Topics                                                | Notes                                 |
-| --------- | ----------------------------------------------------- | ------------------------------------- |
-| Week 1    | Introduction to Machine Learning System Engineering   |                                       |
-| Week 2    | Introduction to Tranditional Software Engineering     | Assignment Hands on Project 1 Post    |
-| Week 3    | Automated Software Testing I                          |                                       |
-| Week 4    | Automated Software Testing II                         | Assignment Hands on Project 2 Post    |
-| Week 5    | MLSE Quality Assurance and ML Testing                 |                                       |
-| Week 6    | ML Software Testing and Analysis (Continued)          | Assignment Hands on Project 3 Post |
-| Week 7    | ML Software Debugging, Interpretation, Repairing      | Course Project part 1: design and implementation (Due Date) |
-| Week 8    | Reading Week (No lecture)                             |     |
-| Week 9    | Invited Talk                                          | Course Project part 2: design and implementation (Due Date) |
-| Week 10   | Invited Talk                                          |     |
-| Week 11   | Invited Talk                                          | Course Project part 3: design and implementation (Due Date) |
-| Week 12   | Project Presentation                                  |     |
-| Week 13   | Project Presentation                                  |     |
-| Week 14   | Project Presentation                                  | Course Project part 4: design and implementation (Due Date) |
