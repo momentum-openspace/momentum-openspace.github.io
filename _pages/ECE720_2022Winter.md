@@ -66,7 +66,7 @@ learning system engineering
 potential value and impacts.
 
 
-## Learning Outcomes:
+## Learning Outcomes
 ---
 By the end of this course, students should be able to:
 
@@ -102,7 +102,7 @@ By the end of this course, students should be able to:
 |    Week 14      |    Project Presentation                                     |                           |                               | |
 {:.padding-table}
 
-## Marking Scheme:
+## Marking Scheme
 ---
 
 |    Activity                                                           |    (A)Synchronous     |    Due / Scheduled       |    Weight    |
@@ -130,7 +130,7 @@ time and place. Any unreturned term work, shall be retained and then shredded si
 deadline for reappraisal and grade appeals. Final examinations will be kept for one year as required by
 university guidelines and the Government of Alberta's Freedom of Information and Protection of Privacy Act.
 
-## Text and References (Recommended):
+## Text and References (Recommended)
 ---
 - Hulten, Geoff. Building Intelligent Systems: A Guide to Machine Learning Engineering. Apress. 2018
 - Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable",
