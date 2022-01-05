@@ -107,13 +107,13 @@ By the end of this course, students should be able to:
 
 |    Activity                                                           |    (A)Synchronous     |    Due / Scheduled       |    Weight    |
 |    :-------------------------------------------------------------:    |    :-------------:    |    :----------------:    |    :----:    |
-|    Assignment Hands-on Project 1                                      |    Asynchronous       |    See schedule below    |     15%      |                                               
-|    Assignment Hands-on Project 2                                      |    Asynchronous       |    See schedule below    |     15%      |
-|    Assignment Hands-on Project 3                                      |    Asynchronous       |    See schedule below    |     15%      |                                          
-|    Course Project - part 1: project proposal & literature survey      |    Asynchronous       |    See schedule below    |     10%      |
-|    Course Project - part 2: design and implementation                 |    Asynchronous       |    See schedule below    |     15%      |
-|    Course Project - part 3: presentation slides                       |    Asynchronous       |    See schedule below    |     15%      |
-|    Course Project - part 4: Final report                              |    Asynchronous       |    See schedule below    |     15%      |       
+|    Assignment Hands-on Project 1                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |                                               
+|    Assignment Hands-on Project 2                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |
+|    Assignment Hands-on Project 3                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |                                          
+|    Course Project - part 1: project proposal & literature survey      |    Asynchronous       |    See schedule in syllabus    |     10%      |
+|    Course Project - part 2: design and implementation                 |    Asynchronous       |    See schedule in syllabus    |     15%      |
+|    Course Project - part 3: presentation slides                       |    Asynchronous       |    See schedule in syllabus    |     15%      |
+|    Course Project - part 4: Final report                              |    Asynchronous       |    See schedule in syllabus    |     15%      |       
 {:.padding-table}   
 
 The Faculty recommended grade point average for a 700 level course is 0.0. Instructors have the leeway to
