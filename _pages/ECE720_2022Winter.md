@@ -86,7 +86,7 @@ By the end of this course, students should be able to:
 
 |    Schedule     |    Topics                                                   | Slides                    | Recordings                    | Recommended readings                |
 |    :-------:    |    :---------------------------------------------------:    | :------------------------:| :----------------------------:| :----------------------------:|
-|    Week 1       |    Introduction to Machine Learning System Engineering      | [slides]()                | [recordings]()                | |
+|    Week 1       |    Introduction to Machine Learning System Engineering      | [slides]()                | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5939317)                | |
 |    Week 2       |    Introduction to Tranditional Software Engineering        |                         |                  | |
 |    Week 3       |    Automated Software Testing I                             |                         |                  | |
 |    Week 4       |    Automated Software Testing II                            |                         |                  | |
