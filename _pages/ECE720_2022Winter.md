@@ -87,16 +87,16 @@ By the end of this course, students should be able to:
 |    Schedule     |    Topics                                                   | Slides                    | Recordings                    | Recommended readings                |
 |    :-------:    |    :---------------------------------------------------:    | :------------------------:| :----------------------------:| :----------------------------:|
 |    Week 1       |    Introduction to Machine Learning System Engineering      | [slides]()                | [recordings]()                | |
-|    Week 2       |    Introduction to Tranditional Software Engineering        | [slides]()                | [recordings]()                | |
-|    Week 3       |    Automated Software Testing I                             | [slides]()                | [recordings]()                | |
-|    Week 4       |    Automated Software Testing II                            | [slides]()                | [recordings]()                | |
-|    Week 5       |    MLSE Quality Assurance and ML Testing                    | [slides]()                | [recordings]()                | |
-|    Week 6       |    ML Software Testing and Analysis (Continued)             | [slides]()                | [recordings]()                | |
-|    Week 7       |    ML Software Debugging, Interpretation, Repairing         | [slides]()                | [recordings]()                | |
+|    Week 2       |    Introduction to Tranditional Software Engineering        |                         |                  | |
+|    Week 3       |    Automated Software Testing I                             |                         |                  | |
+|    Week 4       |    Automated Software Testing II                            |                         |                  | |
+|    Week 5       |    MLSE Quality Assurance and ML Testing                    |                         |                  | |
+|    Week 6       |    ML Software Testing and Analysis (Continued)             |                         |                  | |
+|    Week 7       |    ML Software Debugging, Interpretation, Repairing         |                         |                  | |
 |    Week 8       |    Reading Week (No lecture)                                |                           |                               | |
-|    Week 9       |    Invited Talk                                             | [slides]()                | [recordings]()                | |
-|    Week 10      |    Invited Talk                                             | [slides]()                | [recordings]()                | |
-|    Week 11      |    Invited Talk                                             | [slides]()                | [recordings]()                | |
+|    Week 9       |    Invited Talk                                             |                         |                  | |
+|    Week 10      |    Invited Talk                                             |                         |                  | |
+|    Week 11      |    Invited Talk                                             |                         |                  | |
 |    Week 12      |    Project Presentation                                     |                           |                               | |
 |    Week 13      |    Project Presentation                                     |                           |                               | |
 |    Week 14      |    Project Presentation                                     |                           |                               | |
