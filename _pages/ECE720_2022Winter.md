@@ -28,8 +28,8 @@ Office: Zoom (see eClass for information)
 
 
 ## Course Project
-
-**Please fill out your information and project topic in this [form](https://forms.gle/9bMSNoSiorKYkFDH7)**
+---
+**\*Please fill out your information and project topic in this [form](https://forms.gle/9bMSNoSiorKYkFDH7)**
 
 
 ## Course Description
