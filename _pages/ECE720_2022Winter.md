@@ -40,7 +40,7 @@ Office: Zoom (see eClass for information)
 ---
 This course is mostly self-contained, basic previous knowledge of traditional software engineering, testing, analysis, machine learning and deep learning are helpful, but not mandatory.
 
-## Course synchronous and asynchronous content delivery schedule
+## Course delivery
 ---
 Lectures are delivered synchronously via zoom meeting. Lecture and hands-on materials are posted on eClass for asynchronous learning.
 
