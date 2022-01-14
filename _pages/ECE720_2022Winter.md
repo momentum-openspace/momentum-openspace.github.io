@@ -27,6 +27,11 @@ Email: zhijie.wang@ualberta.ca
 Office: Zoom (see eClass for information)
 
 
+## Course Project
+
+**Please fill out your information and project topic in this [form](https://forms.gle/9bMSNoSiorKYkFDH7)**
+
+
 ## Course Description
 ---
 *3 (fi 6) (either term, 3-0-0) Introductory and advanced topics in Machine Learning System Engineering (MLSE). Traditional software engineering, software quality assurance, and state-of-the-art software testing, analysis, etc. General-purpose machine learning and deep learning. Testing and analysis of deep learning. State-of-the-art quality assurance and engineering for machine learning-based software systems, and the future trends.
