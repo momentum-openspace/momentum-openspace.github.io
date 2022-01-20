@@ -121,9 +121,9 @@ By the end of this course, students should be able to:
 |    Course Project - part 4: Final report                              |    Asynchronous       |    See schedule in syllabus    |     15%      |       
 {:.padding-table}   
 
-The Faculty recommended grade point average for a 700 level course is 0.0. Instructors have the leeway to
+<!-- The Faculty recommended grade point average for a 700 level course is 0.0. Instructors have the leeway to
 deviate from this average and can assign grades based on their own scheme. All grades are approved by
-the department chair (or delegate). The office of the Dean has final oversight on all grades.
+the department chair (or delegate). The office of the Dean has final oversight on all grades. -->
 
 ### Term Work
 All term work solutions will be posted no later than the last day of classes. All term work will be returned to
