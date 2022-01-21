@@ -93,7 +93,7 @@ By the end of this course, students should be able to:
 |    :-------:    |    :---------------------------------------------------:    | :------------------------:| :----------------------------:| :----------------------------:|
 |    Week 1       |    Introduction to Machine Learning System Engineering      | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5942536)                | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5939317)                | |
 |    Week 2       |    Introduction to Machine Learning System Engineering        | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5961242)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5959855)                 | |
-|    Week 3       |    Introduction to Traditional Software Engineering         |                         | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5972727)| |
+|    Week 3       |    Introduction to Traditional Software Engineering         |  [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5972741)                       | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5972727)| |
 |    Week 4       |    Automated Software Testing I                             |                         |                  | |
 |    Week 5       |    Automated Software Testing II                            |                         |                  | |
 |    Week 6       |    MLSE Quality Assurance and ML Testing                    |                         |                  | |
