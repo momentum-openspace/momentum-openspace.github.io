@@ -95,7 +95,7 @@ By the end of this course, students should be able to:
 |    Week 2       |    Introduction to Machine Learning System Engineering        | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5961242)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5959855)                 | |
 |    Week 3       |    Introduction to Traditional Software Engineering         |  [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5972741)                       | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5972727)| |
 |    Week 4       |    Automated Software Testing I                             | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5989563)                       | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5986624)                 | |
-|    Week 5       |    Automated Software Testing II                            |                         |                  | |
+|    Week 5       |    Automated Software Testing II                            | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6001969)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6001963)                 | |
 |    Week 6       |    MLSE Quality Assurance and ML Testing                    |                         |                  | |
 |    Week 7       |    ML Software Testing and Analysis (Continued)             |                         |                  | |
 |    Week 8       |    Reading Week (No lecture)                                |                           |                               | |
@@ -112,7 +112,7 @@ By the end of this course, students should be able to:
 
 |    Activity                                                           |    (A)Synchronous     |    Due / Scheduled       |    Weight    |
 |    :-------------------------------------------------------------:    |    :-------------:    |    :----------------:    |    :----:    |
-|    Assignment Hands-on Project 1                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |                                               
+|    Assignment Hands-on Project 1                                      |    Asynchronous       |    Posted, due on Feb 11   |     15%      |                                               
 |    Assignment Hands-on Project 2                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |
 |    Assignment Hands-on Project 3                                      |    Asynchronous       |    See schedule in syllabus    |     15%      |                                          
 |    Course Project - part 1: project proposal & literature survey      |    Asynchronous       |    See schedule in syllabus    |     10%      |
