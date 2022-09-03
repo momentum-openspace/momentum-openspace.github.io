@@ -96,10 +96,10 @@ By the end of this course, students should be able to:
 |    Week 3       |    Introduction to Traditional Software Engineering         |  [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5972741)                       | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5972727)| |
 |    Week 4       |    Automated Software Testing I                             | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=5989563)                       | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=5986624)                 | |
 |    Week 5       |    Automated Software Testing II                            | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6001969)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6001963)                 | |
-|    Week 6       |    MLSE Quality Assurance and ML Testing                    | [recordings](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6024872)                        | [slides](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6017706)                 | |
-|    Week 7       |    ML Software Testing and Analysis (Continued)             | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6026899)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6027172)                 | |
+|    Week 6       |    MLSE Quality Assurance and ML Testing                    | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6024872)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6017706)                 | |
+|    Week 7       |    ML Software Testing and Analysis            | [slides](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6026899)                        | [recordings](https://eclass.srv.ualberta.ca/mod/url/view.php?id=6027172)                 | |
 |    Week 8       |    Reading Week (No lecture)                                |                           |                               | |
-|    Week 9       |    ML Software Debugging, Interpretation, Repairing         |                         |                  | |
+|    Week 9       |    Invited Talk                                             |                         |                  | |
 |    Week 10      |    Invited Talk                                             |                         |                  | |
 |    Week 11      |    Invited Talk                                             |                         |                  | |
 |    Week 12      |    Project Presentation                                     |                           |                               | |
